@@ -10,3 +10,12 @@
     position: relative;
     right: 50px;
 }
+
+@media(max-width : 768px){
+    #projects {
+        position: relative;
+        margin-left: 30px;
+        margin: 30px 0px;
+
+}
+}

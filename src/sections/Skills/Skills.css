@@ -23,7 +23,7 @@
     color: var(--color-red);
     font-weight:800 ;
 }
-.icon{
+#skills .icon{
     font-size: 1.5em;
     margin-left: 30%;
 
@@ -55,13 +55,26 @@
 }
 
 @media(max-width : 768px){
-    .skills .img{
-        width: 600px;
-        top: 0px;
-        /* position: absolute; */
-        
+    #skills .img{
+        /* display: none; */
+        position: relative;
+        top: 20px;
+        left: 100px;
+    }
+    #skills .icon{
+        justify-content:center;
+        position: relative;
+        right: 30px;
+        margin-right: 10%;
+    }
+    #skills .icon i{
+        white-space: normal;
+        /* margin-right: 80px; */
     }
     .text-title-1{
         padding-left: 0;
     }
 }
+/* @media only screen and (min-width: 768px) and (max-width: 1024px) {
+  
+  } */

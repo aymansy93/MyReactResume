@@ -6,3 +6,11 @@
 .img-icon{
     width: 50px;
 }
+
+
+@media(max-width : 768px){
+    .sub-text{
+        border-left: 2px solid var(--color-blue);
+        padding: 3px;
+    }
+}

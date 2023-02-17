@@ -11,8 +11,10 @@
 @media(max-width : 768px){
     .services{
         align-items: center;
-        margin-top: 15rem;
-        right: 15rem;
+        margin-top: 5rem;
+        /* padding-right: 5px; */
+        flex-direction: row;
+        right: 27rem;
         
 
     }

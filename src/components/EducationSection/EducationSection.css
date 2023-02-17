@@ -1,0 +1,7 @@
+@media(max-width : 768px){
+    .edu-custom{
+        border-bottom: 2px solid var(--color-yellow);
+        border-style:double;
+        padding: 30px;
+}
+}

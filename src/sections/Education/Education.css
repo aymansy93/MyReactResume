@@ -10,3 +10,12 @@
 #education img{
     width: 150px;
 }
+
+@media(max-width : 768px){
+    #education{
+        position: relative;
+        margin-left: 30px;
+        padding-right: 20px;
+        /* margin-right: 60px; */
+    }
+}
