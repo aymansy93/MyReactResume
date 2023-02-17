@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33bca618.css",
+    "main.js": "/static/js/main.e219caf4.js",
+    "static/media/happy-hacker.gif": "/static/media/happy-hacker.2ed029cf9449c62e55e9.gif",
+    "static/media/Screenshot at 2023-02-16 16-24-38.png": "/static/media/Screenshot at 2023-02-16 16-24-38.46c3f633e93196d9416b.png",
+    "static/media/w1.png": "/static/media/w1.bfe2e126dbc75648c0bb.png",
+    "static/media/splashScreen.jpg": "/static/media/splashScreen.275bcfe2d31c9cd1a379.jpg",
+    "static/media/w2.png": "/static/media/w2.c2bfbd4c72aba44c66b4.png",
+    "static/media/mis.png": "/static/media/mis.47b6025cbea2c51ccc06.png",
+    "static/media/undraw_laravel_and_vue_-59-tp.svg": "/static/media/undraw_laravel_and_vue_-59-tp.eb8e74ac6a18908fdda160bf00751c2a.svg",
+    "static/media/1F44B.svg": "/static/media/1F44B.061732e756a8f7b671becb1db8244245.svg",
+    "index.html": "/index.html",
+    "static/media/2714.svg": "/static/media/2714.698254ebfecb14ba2387e247ffaf6e93.svg",
+    "static/media/heart.svg": "/static/media/heart.383d303ba2a27deebd6bdbcf3ad13a60.svg",
+    "main.33bca618.css.map": "/static/css/main.33bca618.css.map",
+    "main.e219caf4.js.map": "/static/js/main.e219caf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bca618.css",
+    "static/js/main.e219caf4.js"
+  ]
+}
