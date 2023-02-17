@@ -1,0 +1,17 @@
+.splashcontent h2 span{
+    display: inline-block;
+    margin-top: 10px;
+    color: #163FE7;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+
+@media(max-width : 768px){
+    .splashcontent h2 span{
+        font-size:1em;
+        color: #FF5733;
+        font-weight: 900;
+    }
+
+}

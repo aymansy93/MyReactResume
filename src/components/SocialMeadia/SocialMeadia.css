@@ -1,0 +1,29 @@
+.social-icons i{
+    margin-left: 40px;
+    font-size: 2.5em;
+    /* font-family: 'FontAwesome'; */
+}
+.facebook{
+    color: #097EEB;
+}
+.facebook:hover{
+    color: #5180dd;
+}
+.github{
+    color: #FFFFFF;
+}
+.github:hover{
+    color: #4D4D4D ;
+}
+.whatsapp{
+    color: #25D366;
+}
+.whatsapp:hover{
+    color: #075E54;
+}
+.email{
+    color:#D44638;
+}
+.email:hover{
+    color: #B3201E;
+}

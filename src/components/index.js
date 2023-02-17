@@ -1,0 +1,8 @@
+export {default as NavItem} from './Navitem/NavItem'
+export {default as Services} from './Services/Services'
+export {default as SocialMeadia} from './SocialMeadia/SocialMeadia'
+export {default as TextAnimated} from './TextAnimated/TextAnimated'
+export {default as ButtonSplashScreen} from './ButtonSplashScreen/ButtonSplashScreen'
+export {default as EducationSection} from './EducationSection/EducationSection'
+export {default as Project} from './Project/Project'
+export {default as Bubbles} from './bubbles/Bubbles'

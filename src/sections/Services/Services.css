@@ -1,0 +1,19 @@
+.services{
+    color: var(--color-light);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left:30em;
+    /* bottom: 15rem; */
+    
+}
+
+@media(max-width : 768px){
+    .services{
+        align-items: center;
+        margin-top: 15rem;
+        right: 15rem;
+        
+
+    }
+}

@@ -1,0 +1,12 @@
+#projects {
+    background-color: #171C28;
+    padding: 80px 0;
+}
+
+#projects h2 {
+    padding: 10px;
+}
+#btn-project{
+    position: relative;
+    right: 50px;
+}

@@ -1,0 +1,48 @@
+.splashscreen{
+    /*margin:auto;*/
+    background: url('../../assets/images/splashScreen.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.7;
+    border-radius: var(--border-main);
+    -webkit-border-radius: var(--border-main);
+    -moz-border-radius: var(--border-main);
+    -ms-border-radius: var(--border-main);
+    -o-border-radius: var(--border-main);
+    min-height: 80vh;
+}
+.splashcontent{
+    position:relative;
+    color: var(--color-light);
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.splashcontent h3{
+    font-size: 1.5em;
+    text-shadow:1px 1px 1px #000, 2px 2px 2px #000, 3px 3px 3px #000;
+    color: #F5DEB3; ; 
+}
+.splashcontent h2{
+    padding-left: 1.5em;
+}
+
+.splashcontent h2 img{
+    width: 50px;
+}
+
+
+@media(max-width : 768px){
+    .splashcontent{
+        right: 190px;
+    }
+    .splashcontent h2{
+        /* margin-right: 2.5px; */
+        padding-left: 0.8em;
+    }
+    .splashcontent h2 span{
+        font-size:1em;
+        color: #FF5733;
+        font-weight: 900;
+    }
+
+}

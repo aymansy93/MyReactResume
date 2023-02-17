@@ -1,0 +1,17 @@
+.nav-item a{
+    color: var(--color-light);
+}
+.header .nav-link:hover{
+    color: var(--color-light);
+    background-color: var(--color-orang);
+    transition: all 0.5s ease-out;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+}

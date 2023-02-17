@@ -1,0 +1,29 @@
+.main-btn{
+    color: #fff;
+    background-color: #163FE7;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.937em 2.1875em;
+    margin-left: 1.9em;
+    margin-top: 1em;
+    letter-spacing: 1px;
+    border-radius: var(--border-main);
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+    -webkit-border-radius: var(--border-main);
+    -moz-border-radius: var(--border-main);
+    -ms-border-radius: var(--border-main);
+    -o-border-radius: var(--border-main);
+    
+}
+
+.main-btn:hover{
+    background-color: #089BD2;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
