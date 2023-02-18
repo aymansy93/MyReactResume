@@ -10,12 +10,19 @@
 
 @media(max-width : 768px){
     .services{
+        display: flex;
+        /* align-items: center; */
+        /* margin-top: 5rem; */
+        /* padding-right: 5px; */
+        flex-direction:row;
+        right: 27rem;
+        /*  */
         align-items: center;
         margin-top: 5rem;
-        /* padding-right: 5px; */
-        flex-direction: row;
-        right: 27rem;
-        
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 960px;
 
     }
 }

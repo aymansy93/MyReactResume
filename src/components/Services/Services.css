@@ -1,7 +1,7 @@
 .sub-text{
     color: beige;
     width: 100%;
-    
+ 
 }
 .img-icon{
     width: 50px;
@@ -12,5 +12,6 @@
     .sub-text{
         border-left: 2px solid var(--color-blue);
         padding: 3px;
+        
     }
 }
