@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MyReactResume/static/css/main.3eaece74.css",
+    "main.css": "/MyReactResume/static/css/main.578c2c0a.css",
     "main.js": "/MyReactResume/static/js/main.4c48163c.js",
     "static/media/happy-hacker.gif": "/MyReactResume/static/media/happy-hacker.2ed029cf9449c62e55e9.gif",
     "static/media/Screenshot at 2023-02-16 16-24-38.png": "/MyReactResume/static/media/Screenshot at 2023-02-16 16-24-38.46c3f633e93196d9416b.png",
@@ -13,11 +13,11 @@
     "index.html": "/MyReactResume/index.html",
     "static/media/2714.svg": "/MyReactResume/static/media/2714.698254ebfecb14ba2387e247ffaf6e93.svg",
     "static/media/heart.svg": "/MyReactResume/static/media/heart.383d303ba2a27deebd6bdbcf3ad13a60.svg",
-    "main.3eaece74.css.map": "/MyReactResume/static/css/main.3eaece74.css.map",
+    "main.578c2c0a.css.map": "/MyReactResume/static/css/main.578c2c0a.css.map",
     "main.4c48163c.js.map": "/MyReactResume/static/js/main.4c48163c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eaece74.css",
+    "static/css/main.578c2c0a.css",
     "static/js/main.4c48163c.js"
   ]
 }
