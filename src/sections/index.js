@@ -9,3 +9,4 @@ export {default as Products} from "./Projects/Projects"
 export {default as Achievements} from './Achievements/Achievements'
 export {default as ContactMe} from './ContactMe/ContactMe'
 export {default as ScrollToTopButton} from './ScrollToTopButton/ScrollToTopButton'
+export {default as ProjectsOnline} from './ProjectsOnline/ProjectsOnline'

@@ -1,5 +1,5 @@
 import './App.css';
-import {Header , Footer, SplashScreen, Skills, Services, SkillProgress, Education, Products, Achievements, ContactMe, ScrollToTopButton} from './sections/index'
+import {Header , Footer, SplashScreen, Skills, Services, SkillProgress, Education, Products,ProjectsOnline, Achievements, ContactMe, ScrollToTopButton} from './sections/index'
 
 
 function App() {
@@ -13,6 +13,8 @@ function App() {
       <SkillProgress />
       <Education />
       <Products />
+      <ProjectsOnline/>
+      
       <Achievements/>
       <ContactMe/>
       <Footer />
