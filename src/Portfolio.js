@@ -25,8 +25,12 @@ const NavItemData = [
    text: 'Services'
 },
 {
-    url : '#projects',
-   text: 'Projects Open Source'
+    url : '#onpensource',
+   text: 'Open Source'
+},
+{
+   url : '#projects',
+  text: 'Projects'
 },
 {
    url: '#Achievements',
@@ -183,7 +187,7 @@ const EducationData = {
    ]
 }
 // ///////////////////////////
-// Projects
+// Projects Open source
 const ProjectsData={
    projects:[
       {
@@ -214,6 +218,43 @@ const ProjectsData={
    ]
 }
 // //////////////////////////////////////////////
+// ///////////////////////////
+// Projects
+const OlineProjects={
+   projects:[
+      {
+         name:"invoices-managment",
+         des:"Managing customer and bank bills",
+         url:"https://aymankanawi.info/login",
+         img:pro1,
+      },
+      {
+         name:"SHOPPING",
+         des:"A simple online store that contains most of the advantages of electronic stores",
+         url:"https://shopping.aymankanawi.info/",
+         img:pro2,
+      },
+      {
+         name:"portfolio html&css only",
+         des:"Personal website",
+         url:"https://aymansy93.github.io/portfolio/",
+         img:pro3,
+      },
+      {
+         name:"chatAI with laravel Backend",
+         des:"chat AI with laravel backend use api from openai",
+         url:"https://aymansy93.github.io/chatAIFrontend/",
+         img:'',
+      },
+      // {
+         // add more projects in here 
+      //    name:"",
+      //    des:"",
+      //    url:"",
+      //    img:,
+      // },
+   ]
+}
 // Achievements
 const AchievementsData = {
    Achievement:[
@@ -268,6 +309,7 @@ export{
    Proficiency,
    EducationData,
    ProjectsData,
+   OlineProjects,
    AchievementsData,
    ContactMeData,
    isHireable,

@@ -1,9 +1,9 @@
-#onpensource {
+#projects {
     background-color: #171C28;
     padding: 80px 0;
 }
 
-#onpensource h2 {
+#projects h2 {
     padding: 10px;
 }
 #btn-project{
@@ -12,7 +12,7 @@
 }
 
 @media(max-width : 768px){
-    #onpensource {
+    #projects {
         position: relative;
         margin-left: 30px;
         margin: 30px 0px;

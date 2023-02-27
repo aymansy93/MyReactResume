@@ -46,3 +46,11 @@
     }
 
 }
+@media(max-width: 600px) {
+    .splashscreen{
+        background-color:#383C4A;
+        background-image:none;
+        
+
+    }
+}
