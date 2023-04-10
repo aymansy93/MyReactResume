@@ -246,6 +246,13 @@ const OlineProjects={
          url:"https://aymansy93.github.io/chatAIFrontend/",
          img:'',
       },
+      {
+         name:"home managment",
+         des:"Managing household expenses",
+         url:"https://homemanagment.aymankanawi.info/",
+         img:null,
+      },
+       
       // {
          // add more projects in here 
       //    name:"",
