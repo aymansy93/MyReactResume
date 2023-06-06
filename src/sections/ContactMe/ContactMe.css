@@ -27,3 +27,10 @@ p.font-weight-bold{
     position: relative;
     margin-top: -50px;
 }
+@media(max-width : 768px){
+    #contact{
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+}

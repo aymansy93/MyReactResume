@@ -46,9 +46,10 @@ const NavItemData = [
 const SocialMeadiaData ={
    facebook: "https://www.facebook.com/aymen.kn.7/",
    github:"https://github.com/aymansy93",
-   whatsapp:"https://wa.me/905531781745?text=Hello%2C%20I%20am%20interested%20in%20learning%20more%20about%20your%20work.%20Could%20you%20please%20provide%20me%20with%20further%20details%3F",
-   email:"mailto:ayman_kanawi@proton.me",
+   whatsapp:"https://wa.me/905531781745?text=Hello",
+   email:"mailto:info@aymankanawi.info",
    tryhackme:'https://tryhackme.com/p/aymankan',
+   linkedin:'https://www.linkedin.com/in/ayman-kanawi/',
    // other icon supported  Instagram, Twitter AND many other!
   // To customize icons and social links,  src/components/SocialMedia
 };

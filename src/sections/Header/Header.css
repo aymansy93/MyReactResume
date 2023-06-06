@@ -23,5 +23,8 @@
     .navbar img{
         left: 10px;
     }
+    .navbar .navbar-nav{
+        margin: 0 50px;
+    }
 }
 

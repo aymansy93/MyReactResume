@@ -1,12 +1,12 @@
 
 #skills{
-    margin-top: 5em;
+    margin-top: 2em;
 }
 
 #skills .img{
     width: 600px;
     position: relative;
-    top: -250px;
+    top: -220px;
 }
 
 .skills-content{

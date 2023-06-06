@@ -3,7 +3,8 @@
     display: flex;
     flex-direction: column;
     position: relative;
-    margin-left:30em;
+    margin-left:10px;
+    margin-top: 0;
     /* bottom: 15rem; */
     
 }
@@ -11,12 +12,10 @@
 @media(max-width : 768px){
     .services{
         display: flex;
-        /* align-items: center; */
-        /* margin-top: 5rem; */
-        /* padding-right: 5px; */
         flex-direction:row;
-        right: 27rem;
-        /*  */
+        justify-content: center;
+        align-items: center;
+        /* right: 2rem; */
         align-items: center;
         margin-top: 5rem;
         flex-wrap: wrap;
@@ -26,3 +25,23 @@
 
     }
 }
+/* @media (max-width: 768px) {
+    .services {
+      display: flex;
+      flex-direction: row;
+      right: auto;
+      align-items: center;
+      margin-top: 5rem;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      width: 100%;
+      max-width: 960px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 1rem;
+      background-color: #fff;
+      z-index: 9999;
+    }
+  } */
