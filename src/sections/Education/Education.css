@@ -5,7 +5,6 @@
 }
 #education p{
     color: var(--color-yellow);
-    color: y;
 }
 #education img{
     width: 150px;
@@ -14,8 +13,11 @@
 @media(max-width : 768px){
     #education{
         position: relative;
-        margin-left: 30px;
+        /* margin-left: 30px; */
         padding-right: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         /* margin-right: 60px; */
     }
 }

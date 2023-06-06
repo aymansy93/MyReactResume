@@ -1,0 +1,13 @@
+.shadow-M {
+  box-shadow: 3px 2px 4px rgb(41, 0, 224);
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: rgba(0, 57, 245, 0.986);
+  z-index: 99999;
+  cursor: none;
+}
+.container-fluid{
+  cursor: none;
+}
