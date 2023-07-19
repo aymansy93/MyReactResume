@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import './ScrollToTopButton.css'
-import {TbArrowBigTop} from 'react-icons/tb'
+import './ScrollToTopButton.css';
+import {TbArrowBigUpFilled} from 'react-icons/tb';
 const ScrollToTopButton = () => {
 
 
@@ -31,7 +31,7 @@ const ScrollToTopButton = () => {
     return (
          <>
             {showButton ? (
-           <button className="goto" onClick={handleButtonClick}><TbArrowBigTop/></button>
+           <button className="goto" onClick={handleButtonClick}><TbArrowBigUpFilled/></button>
             ) : (
             ''
             )}
