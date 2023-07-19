@@ -57,7 +57,7 @@ const SocialMeadiaData ={
 //greeting
 const greeting={
    title:", I'm Ayman Kanawi",
-   subtitle:"My passion for technology and cybersecurity led me to pursue a career as a junior backend developer and pentester.",
+   subtitle:"My passion for technology and cybersecurity led me to pursue a career as a backend developer and pentester.",
 
    buttonNormal:[
       {
