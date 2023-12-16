@@ -1,6 +1,7 @@
 #education h3{
     padding-right: 20px;
     margin-top: 10px;
+    margin: 3rem;
     
 }
 #education p{
@@ -8,6 +9,8 @@
 }
 #education img{
     width: 150px;
+    display: block;
+    margin: 0 auto;
 }
 
 @media(max-width : 768px){
@@ -19,5 +22,17 @@
         justify-content: center;
         align-items: center;
         /* margin-right: 60px; */
+    }
+    #education img{
+        width: 120px;
+        display: block;
+        margin: 0 auto;
+        padding: 10px;
+    }
+    #education h3{
+        /* padding-right: 20px; */
+        /* margin-top: 10px; */
+        margin: 0;
+        font-size: 20px;
     }
 }

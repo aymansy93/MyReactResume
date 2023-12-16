@@ -1,17 +1,21 @@
-.sub-text{
-    color: beige;
-    width: 100%;
- 
-}
-.img-icon{
-    width: 50px;
+.services .card-text {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    padding: 10px;
+    /* white-space: normal; 
+    word-wrap: break-word;  */
 }
 
-
+.services img{
+    width: 100px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
 @media(max-width : 768px){
-    .sub-text{
-        border-left: 2px solid var(--color-blue);
-        padding: 3px;
-        
+    .services img{
+        display: block;
+        margin: 0 auto;
     }
 }

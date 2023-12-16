@@ -8,11 +8,11 @@ const Achievements = () => {
   return (
     <section className="main achievements-section" id='Achievements'>
         <div className="container">
-            <h2 className='title'>Achievements &amp; Certifications</h2>
+            <h2 className='title'>Professional Experience &amp; Achievements</h2>
             <div className="row">
                 {
                     AchievementsData.Achievement.map((element,i)=>(
-                        <div className="col-lg-6">
+                        <div className="col-lg-6 m-m1">
                             <div className="achievement-item">
                                     <div className="achievement-icon">
                                         <i className="fas fa-award"><FaAward/></i>

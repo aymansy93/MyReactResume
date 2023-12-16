@@ -12,11 +12,11 @@ const TextAnimated = () => {
             loop:true,
             delay:60,
             strings:[
-                "Back End Web Developer",
-                "useing laravel framework",
-                "web manager",
-                "Penetration Testing",
-                "Bug Hunting"
+                "Experienced Back-End Web Developer",
+                "Proficient in utilizing the Laravel framework",
+                "Skilled Web Manager",
+                "Specialized in Penetration Testing",
+                "Adept in Bug Hunting"
             ],
         }}
         />

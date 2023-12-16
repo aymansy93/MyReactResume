@@ -1,4 +1,6 @@
-import img_services_icon from "./assets/images/2714.svg"
+import customer from "./assets/images/customer.svg"
+import  megaphone from "./assets/images/megaphone.svg"
+import  security from "./assets/images/security-verified-svgrepo-com.png"
 import {GrMysql} from "react-icons/gr"
 import {FaLaravel , FaPhp,FaLinux,FaPython, FaWordpress ,FaGithubSquare, FaHtml5,FaCss3, FaReact,FaDocker} from "react-icons/fa"
 // for Education imges 
@@ -135,15 +137,15 @@ const SkillsData = {
 const ServicesData = [
    {
       text: 'Get your website managed with the latest web technologies and high capabilities',
-      img: img_services_icon
+      img: customer
    },
    {
       text: 'Marketing through social media channels and preparing the site for search engines',
-      img: img_services_icon
+      img: megaphone
    },
    {
       text: 'Check websites for security vulnerabilities professionally',
-      img: img_services_icon
+      img: security
    },
 ];
 // ///////////////////////////////////////////////
@@ -152,19 +154,19 @@ const Proficiency={
    experience: [
       {
         Stack: "Frontend/Design", //Insert stack or technology you have experience in
-        progressPercentage: "40%" //Insert relative proficiency in percentage
+        progressPercentage: "60%" //Insert relative proficiency in percentage
       },
       {
          Stack: "Backend", //Insert stack or technology you have experience in
-         progressPercentage: "60%" //Insert relative proficiency in percentage
+         progressPercentage: "80%" //Insert relative proficiency in percentage
       },
       {
-         Stack: "Programming", //Insert stack or technology you have experience in
-         progressPercentage: "50%" //Insert relative proficiency in percentage
+         Stack: "Programming/Problem Solving", //Insert stack or technology you have experience in
+         progressPercentage: "70%" //Insert relative proficiency in percentage
       },
       {
          Stack: "Penetration Testing", //Insert stack or technology you have experience in
-         progressPercentage: "50%" //Insert relative proficiency in percentage
+         progressPercentage: "90%" //Insert relative proficiency in percentage
       },
    ]
 }
@@ -278,6 +280,13 @@ const AchievementsData = {
          des:"Successfully contributed HTML/CSS skills to ScrambleBit's Volunteering Workshop for charity organizations.",
          img:'',
          date:'October 2022',
+         // add coustomize 
+      },
+      {
+         name:'Softbox Company',
+         des:"As a Backend and Laravel Developer at Softbox Company since January 5, 2023, I've been actively involved in developing robust and scalable solutions. My responsibilities include crafting and maintaining backend systems using Laravel, ensuring optimal performance and security. I contribute to the success of projects by leveraging my expertise in backend development and Laravel framework.",
+         img:'',
+         date:'January 2023 To Present',
          // add coustomize 
       },
       // 
