@@ -35,3 +35,13 @@
 .email:hover{
     color: #B3201E;
 }
+
+
+@media(max-width : 768px){
+.social-icons i{
+    /* margin-left: 10px; */
+    margin: 10px;
+    font-size: 2em;
+}
+
+}
