@@ -11,6 +11,8 @@ import hacker from "./assets/images/happy-hacker.gif"
 import pro1 from './assets/images/w1.png'
 import pro2 from './assets/images/w2.png'
 import pro3 from './assets/images/Screenshot at 2023-02-16 16-24-38.png'
+import img_shop_open from './assets/images/w2_open.png'
+import img_invoice_open from './assets/images/w1.bfe2e126dbc75648c0bb.png'
 // Navbar Items : 
 
 const NavItemData = [
@@ -68,7 +70,7 @@ const greeting={
         
       },
       {
-         url:"https://drive.google.com/file/d/1t9HUl1Qg-48t1PMI07C_GVjejIM_8vOP/view?usp=share_link",
+         url:"https://drive.google.com/file/d/1t3pzvuoxVbK8XngstmrypM8-Kv025hTo/view?usp=sharing",
          name:"SEE ME RESUME",
       }
    ],
@@ -197,13 +199,13 @@ const ProjectsData={
          name:"invoices-managment",
          des:"Managing customer and bank bills",
          url:"https://github.com/aymansy93/invoices-managment",
-         img:pro1,
+         img:img_invoice_open,
       },
       {
          name:"SHOPPING",
          des:"A simple online store that contains most of the advantages of electronic stores",
          url:"https://github.com/aymansy93/shopping",
-         img:pro2,
+         img:img_shop_open,
       },
       {
          name:"portfolio html&css only",
@@ -226,15 +228,15 @@ const ProjectsData={
 const OlineProjects={
    projects:[
       {
-         name:"invoices-managment",
-         des:"Managing customer and bank bills",
-         url:"https://invoicesdemo.aymankanawi.info/",
+         name:"Eccomerce online store",
+         des:"This project involves the development of a comprehensive online store utilizing the Laravel framework.",
+         url:"https://shop.aymankanawi.info",
          img:pro1,
       },
       {
-         name:"SHOPPING",
-         des:"A simple online store that contains most of the advantages of electronic stores",
-         url:"https://shopping.aymankanawi.info/",
+         name:"GameShop",
+         des:"Facilitates charging for gaming and Visa balance transfers in Türkiye.",
+         url:"https://yalanashhnbils.com",
          img:pro2,
       },
       {
@@ -244,15 +246,9 @@ const OlineProjects={
          img:pro3,
       },
       {
-         name:"chatAI with laravel Backend",
-         des:"chat AI with laravel backend use api from openai",
-         url:"https://aymansy93.github.io/chatAIFrontend/",
-         img:'',
-      },
-      {
-         name:"home managment",
-         des:"Managing household expenses",
-         url:"https://homemanagment.aymankanawi.info/",
+         name:"Palhanz Company",
+         des:"Official portfolio overview for Palhanz Company",
+         url:"https://palhanz.aymankanawi.info/",
          img:null,
       },
        

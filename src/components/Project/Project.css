@@ -16,6 +16,9 @@
     line-height: 1.5;
     max-height: 20px;
 }
+.card .card-text{
+    margin: 2rem 0px;
+}
 .project:hover{
     mix-blend-mode: overlay;
 }

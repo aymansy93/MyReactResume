@@ -15,7 +15,7 @@ const Project = (props) => {
             <div className="card-body">
                 <h5 className="card-title">{props.name}</h5>
                 <p className="card-text">{props.des}</p>
-                <ButtonSplashScreen name='More Details' url={props.url} newTab={true}/>
+                <ButtonSplashScreen name='More Details' url={props.url} newTab={props.url=='#'?false:true}/>
             </div>
 
             </div>

@@ -12,7 +12,7 @@ const Achievements = () => {
             <div className="row">
                 {
                     AchievementsData.Achievement.map((element,i)=>(
-                        <div className="col-lg-6 m-m1">
+                        <div className="col-lg-6 m-m1 my-4 ">
                             <div className="achievement-item">
                                     <div className="achievement-icon">
                                         <i className="fas fa-award"><FaAward/></i>
