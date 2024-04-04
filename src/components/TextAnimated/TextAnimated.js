@@ -1,6 +1,7 @@
 import React from 'react'
 import "./TextAnimated.css"
 import Typewriter from 'typewriter-effect'
+import { TextAnimated as TextAn } from '../../Portfolio';
 
 
 const TextAnimated = () => {
@@ -11,13 +12,7 @@ const TextAnimated = () => {
             autoStart:true,
             loop:true,
             delay:60,
-            strings:[
-                "Experienced Back-End Web Developer",
-                "Proficient in utilizing the Laravel framework",
-                "Skilled Web Manager",
-                "Specialized in Penetration Testing",
-                "Adept in Bug Hunting"
-            ],
+            strings:TextAn
         }}
         />
     </span>

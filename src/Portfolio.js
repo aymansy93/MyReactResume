@@ -58,6 +58,13 @@ const SocialMeadiaData ={
   // To customize icons and social links,  src/components/SocialMedia
 };
 // //////////////////////////////////////////////
+const TextAnimated = [
+   "Experienced Back-End Web Developer",
+   "Proficient in utilizing the Laravel framework",
+   "Skilled Web Manager",
+   "Specialized in Penetration Testing",
+   "Adept in Bug Hunting"
+];
 //greeting
 const greeting={
    title:", I'm Ayman Kanawi",
@@ -316,6 +323,7 @@ const isHireable = true; // Set false if you are not looking for a job.
 export{
    NavItemData,
    ServicesData,
+   TextAnimated,
    SocialMeadiaData,
    greeting,
    SkillsData,
