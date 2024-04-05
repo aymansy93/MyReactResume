@@ -15,6 +15,7 @@ import img_shop_open from './assets/images/w2_open.png'
 import img_invoice_open from './assets/images/w1.bfe2e126dbc75648c0bb.png'
 // Navbar Items : 
 
+
 const NavItemData = [
 {
     url : '#splashscreen',
@@ -59,12 +60,13 @@ const SocialMeadiaData ={
 };
 // //////////////////////////////////////////////
 const TextAnimated = [
-   "Experienced Back-End Web Developer",
-   "Proficient in utilizing the Laravel framework",
-   "Skilled Web Manager",
-   "Specialized in Penetration Testing",
-   "Adept in Bug Hunting"
+   'Experienced Back-End Web Developer',
+   'Proficient in utilizing the Laravel framework',
+   'Skilled Web Manager',
+   'Specialized in Penetration Testing',
+   'Adept in Bug Hunting'
 ];
+
 //greeting
 const greeting={
    title:", I'm Ayman Kanawi",
